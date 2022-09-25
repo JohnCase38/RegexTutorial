@@ -1,2 +1,2 @@
 # Regex Tutorial
-In this tutorial we will be going over Regular Expressions (Regex). We are going to break down their main components and what the function of a regex is. 
+In this tutorial we will be going over Regular Expressions (Regex). We are going to break down their main components and what the function of a regex is. We will also be looking at a real life example and go over how to create one for ourselves. Hope this helps!
